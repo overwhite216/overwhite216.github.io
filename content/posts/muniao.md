@@ -1,7 +1,7 @@
 ---
 title: "木鸟民宿app竞品分析报告"
 date: 2023-01-20T20:48:14+08:00
-draft: true
+draft: false
 categories: ["产品"]
 tags: ["竞品分析"]
 ---
