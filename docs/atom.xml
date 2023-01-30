@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">闵若遥的博客</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2023-01-30T23:51:46&#43;08:00</updated>
+    <updated>2023-01-30T23:58:46&#43;08:00</updated>
     <id>https://overwhite216.github.io/</id>
     <link rel="alternate" type="text/html" href="https://overwhite216.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://overwhite216.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">木鸟民宿app竞品分析报告</title>
             <link rel="alternate" type="text/html" href="https://overwhite216.github.io/posts/muniao/" />
             <id>https://overwhite216.github.io/posts/muniao/</id>
-            <updated>2023-01-30T23:51:23&#43;08:00</updated>
+            <updated>2023-01-30T23:58:42&#43;08:00</updated>
             <published>2023-01-20T20:48:14&#43;08:00</published>
             <author>
                     <name>闵若遥</name>
@@ -48,26 +48,18 @@
 &lt;tr&gt;
 &lt;td&gt;木鸟民宿&lt;/td&gt;
 &lt;td&gt;V7.9.4&lt;/td&gt;
-&lt;td&gt;HUAWEI P40 Pro&lt;/td&gt;
-&lt;td&gt;3.0.0&lt;/td&gt;
-&lt;td&gt;2023.1.13&lt;/td&gt;
-&lt;td&gt;闵若遥&lt;/td&gt;
+&lt;td rowspan=&#34;3&#34;&gt;HUAWEI P40 Pro&lt;/td&gt;
+&lt;td rowspan=&#34;3&#34;&gt;3.0.0&lt;/td&gt;
+&lt;td rowspan=&#34;3&#34;&gt;2023.1.13&lt;/td&gt;
+&lt;td rowspan=&#34;3&#34;&gt;闵若遥&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;小猪民宿&lt;/td&gt;
 &lt;td&gt;6.49.00&lt;/td&gt;
-&lt;td&gt;HUAWEI P40 Pro&lt;/td&gt;
-&lt;td&gt;3.0.0&lt;/td&gt;
-&lt;td&gt;2023.1.13&lt;/td&gt;
-&lt;td&gt;闵若遥&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;途家民宿&lt;/td&gt;
 &lt;td&gt;8.68.0&lt;/td&gt;
-&lt;td&gt;HUAWEI P40 Pro&lt;/td&gt;
-&lt;td&gt;3.0.0&lt;/td&gt;
-&lt;td&gt;2023.1.13&lt;/td&gt;
-&lt;td&gt;闵若遥&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -837,23 +829,13 @@
 &lt;td&gt;&lt;br&gt; · 社交功能不够完善，用户之间的交流互动不足&lt;br&gt; · 产品体验欠佳，部分功能有待完善&lt;/td&gt;
 &lt;td&gt;&lt;br&gt; · 针对差旅用户的定位与喜爱网红民宿的年轻群体之间存在割裂&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;机遇&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;· 国家政策支持鼓励发展租赁式公寓、民宿客栈等旅游短租服务&lt;br&gt; · 疫情缓解后，周边游、本地游兴起，带动民宿需求上升&lt;br&gt; · 网络化营销手段、新型技术给在线民宿预订市场赋能，增加了流量和转化率&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;· 国家政策支持鼓励发展租赁式公寓、民宿客栈等旅游短租服务&lt;br&gt; · 疫情缓解后，周边游、本地游兴起，带动民宿需求上升&lt;br&gt; · 网络化营销手段、新型技术给在线民宿预订市场赋能，增加了流量和转化率&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;挑战&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;· 小猪民宿、途家民宿、美团民宿、木鸟民宿等多个产品竞争，抢占市场份额&lt;br&gt; · 民宿市场出现“冰火两重天”，蛋壳公寓、蘑菇公寓、青客公寓等纷纷暴雷&lt;br&gt; · 政策对民宿标准要求逐渐严格，需要在民宿标准上下功夫&lt;br&gt; · 一二线城市预订需求最大，但是三四线下沉市场的需求量不可忽视&lt;br&gt; · 行业将迈向洗牌期，未来精细化运营、满足用户个性化需求是制胜关键&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;· 小猪民宿、途家民宿、美团民宿、木鸟民宿等多个产品竞争，抢占市场份额&lt;br&gt; · 民宿市场出现“冰火两重天”，蛋壳公寓、蘑菇公寓、青客公寓等纷纷暴雷&lt;br&gt; · 政策对民宿标准要求逐渐严格，需要在民宿标准上下功夫&lt;br&gt; · 一二线城市预订需求最大，但是三四线下沉市场的需求量不可忽视&lt;br&gt; · 行业将迈向洗牌期，未来精细化运营、满足用户个性化需求是制胜关键&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
