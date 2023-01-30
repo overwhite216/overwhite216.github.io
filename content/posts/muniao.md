@@ -45,24 +45,33 @@ tags: ["竞品分析"]
 #### 3.1 民宿预订用户分析
 ##### 用户标签
 国内民宿市场客源呈现**年轻化、女性化、高线城市化**的趋势。据调查，在年龄分布上，全国客源中00后占比26.2%，95后占比25.0%，成为主要消费人群。在性别分布上，女性占比54.4%，男性占比45.6%，呈现“她经济”趋势。在城市分布上，客源主要分布在深圳、广东、北京、成都、上海等高线城市，在一二线城市中强势渗透，三四线城市稳步提升。在消费金额上，95后、90后、85后消费金额较高，00后虽然是消费主力但是贡献消费金额不高。在入住类型上，朋友/情侣两人入住比例最高，占比41%，其次是3-4人家庭住宿，占比34%，4人以上小型团队和独自入住的比例较低。
-![640.png](https://cdn.nlark.com/yuque/0/2023/png/34449442/1674979947313-d2bbb387-8f02-4ab3-87b6-3de61ec05f64.png#averageHue=%23f9f8f6&clientId=ue3cbae7b-d5b3-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=486&id=u3f246558&margin=%5Bobject%20Object%5D&name=640.png&originHeight=608&originWidth=1080&originalType=binary&ratio=1&rotation=0&showTitle=false&size=164584&status=done&style=none&taskId=ud295a173-3d2a-408e-8adf-9e7d0385c0d&title=&width=864)
-![640 (1).png](https://cdn.nlark.com/yuque/0/2023/png/34449442/1674979955720-1f1cf3b7-6ada-4eb5-ab00-bf1c5d782584.png#averageHue=%23f9f8f6&clientId=ue3cbae7b-d5b3-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=486&id=ue8abda38&margin=%5Bobject%20Object%5D&name=640%20%281%29.png&originHeight=608&originWidth=1080&originalType=binary&ratio=1&rotation=0&showTitle=false&size=159922&status=done&style=none&taskId=u1d41916b-0d50-4361-8c2b-1157973cf09&title=&width=864)
+
+![](https://s2.loli.net/2023/01/30/7zBfvJIntN8siGd.png)
+
+![](https://s2.loli.net/2023/01/30/f3erFzako4wVQY1.png)
+
 ##### 覆盖场景
 **民宿消费覆盖的场景和人群日趋多元**，包含家庭出游、团队轰趴、带宠出游、商务出行、网红打卡等场景，可以满足宽敞舒适、便捷自由、可互动交流、可携带宠物、可减压娱乐等用户需求，因此民宿逐渐成为住宿消费的主流趋势。
 民宿的移动端预订占比已近九成，用户的主要诉求集中在**民宿性价比**和**民宿品质**上。其中上班族和学生占比达77%，是民宿在线预定的主力军，但是她们的消费需求有所差异，职场新人倾向于选择性价比较高的民宿，注重交通便捷，而高管群体倾向高品质民宿，学生群体出现了多次短租、长租等多元形式，在高校聚集区域消费频次高于其他群体。
-![0d575d27e8b40d609265328025324308_640_wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674994478893-e1ff0b7a-b1e7-44e0-8168-bae58a4bd001.jpeg#averageHue=%23f6f5f4&clientId=ue3cbae7b-d5b3-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=486&id=u45af8232&margin=%5Bobject%20Object%5D&name=0d575d27e8b40d609265328025324308_640_wx_fmt%3Dpng%26wxfrom%3D5%26wx_lazy%3D1%26wx_co%3D1.jpg&originHeight=608&originWidth=1080&originalType=binary&ratio=1&rotation=0&showTitle=false&size=57529&status=done&style=none&taskId=ud3f25d14-93b6-48aa-95e1-9bb3587f92d&title=&width=864)
-![872767114a2ed11a777f688932479ac0_640_wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674996061452-b8331383-571d-4fd3-82c7-1f320d84f82f.jpeg#averageHue=%23f6f5f5&clientId=ue3cbae7b-d5b3-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=486&id=u0ba0ffe8&margin=%5Bobject%20Object%5D&name=872767114a2ed11a777f688932479ac0_640_wx_fmt%3Dpng%26wxfrom%3D5%26wx_lazy%3D1%26wx_co%3D1.jpg&originHeight=608&originWidth=1080&originalType=binary&ratio=1&rotation=0&showTitle=false&size=63912&status=done&style=none&taskId=u4eba3128-7834-4d98-b6e4-f89a1d87f05&title=&width=864)
+
+![](https://s2.loli.net/2023/01/30/FRiJnGuxfOptNM4.jpg)
+
+![](https://s2.loli.net/2023/01/30/ClYaKDWd5XMBQ9T.jpg)
+
 #### 3.2 三款竞品用户分析
 ##### 用户规模对比
 根据七麦数据统计结果，2022年1月至2023年1月的一年时间内小猪民宿app下载量估计为110万次，木鸟民宿app估计为222万次，途家民宿app为160万次，**全年app下载量排名是木鸟>途家>小猪**。在全年春秋冬三个季节中，三款产品的下载量接近，但是**在2020年6月至9月期间，木鸟民宿app的下载量迎来爆发式增长**，推测与暑期周边游自驾游兴起、民宿热趋势有关。
-![下载量对比.png](https://cdn.nlark.com/yuque/0/2023/png/34449442/1675002325053-243fe0ec-e2bb-4927-b006-9474a1c0614d.png#averageHue=%23090705&clientId=ue3cbae7b-d5b3-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=504&id=ufdb0b0be&margin=%5Bobject%20Object%5D&name=%E4%B8%8B%E8%BD%BD%E9%87%8F%E5%AF%B9%E6%AF%94.png&originHeight=630&originWidth=2037&originalType=binary&ratio=1&rotation=0&showTitle=false&size=160256&status=done&style=none&taskId=ub1348b2c-5a5e-46f2-a35f-fa27e9a2260&title=&width=1629.6)
+
+
+![](https://s2.loli.net/2023/01/30/FkbtdyQOpgPZuvD.png)
+
 ##### 用户构成对比
 途家民宿app的用户**男女相对平衡**，主力消费人群集中在**31-35岁**人群，其次是24-30岁人群，中等消费者占比最多，达35%，其次是高消费者、中高消费者，中低和低消费者总占比仅有10%，**用户的消费水平在三款产品中最高**，65%的用户来自一二线城市。
 小猪民宿app**男性比例明显多于女性**，**24-30岁和31-35岁**人群占比比较平衡，分别占33%和28%，**用户的消费水平在三款产品中中等**，中等、中高、高消费者比例相近，均占25%，71%的用户来自一二线城市。
 木鸟民宿app**女性比例多于男性**，其中女性占比58%，男性占比42%，呈现“她经济”特点，用户年龄分布和小猪民宿app用户相近，用户的消费水平在三款产品中最低，**一半用户都是中低消费人群**，木鸟78%的用户来自一二线城市，**将近一半用户来自新一线城市**。
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/34449442/1675002599042-b304a5eb-b36f-40df-a06d-59c896d2dd2d.png#averageHue=%23fdf9f5&clientId=ue3cbae7b-d5b3-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=275&id=u09572687&margin=%5Bobject%20Object%5D&name=image.png&originHeight=344&originWidth=1314&originalType=binary&ratio=1&rotation=0&showTitle=false&size=60870&status=done&style=none&taskId=uc7384dd6-a319-428c-b285-4ca41de99a3&title=&width=1051.2)
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/34449442/1675002614406-46700d99-286a-43fa-8ea6-57617fd17988.png#averageHue=%23fdf9f3&clientId=ue3cbae7b-d5b3-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=268&id=u1af81c6b&margin=%5Bobject%20Object%5D&name=image.png&originHeight=335&originWidth=1316&originalType=binary&ratio=1&rotation=0&showTitle=false&size=74560&status=done&style=none&taskId=uba512495-8d40-4506-a64b-5355c7c9aa8&title=&width=1052.8)![image.png](https://cdn.nlark.com/yuque/0/2023/png/34449442/1675002627375-1cab73e1-6133-484a-b32c-7993298cef5d.png#averageHue=%23fcfaf6&clientId=ue3cbae7b-d5b3-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=269&id=u88b46862&margin=%5Bobject%20Object%5D&name=image.png&originHeight=336&originWidth=1321&originalType=binary&ratio=1&rotation=0&showTitle=false&size=75997&status=done&style=none&taskId=u07d080f1-f3f8-468e-bc3e-f08062ff93a&title=&width=1056.8)
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/34449442/1675002649708-6071435a-9b4b-4c55-874f-ccc1bc709f99.png#averageHue=%23fdf9f5&clientId=ue3cbae7b-d5b3-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=277&id=u8e166de0&margin=%5Bobject%20Object%5D&name=image.png&originHeight=346&originWidth=1330&originalType=binary&ratio=1&rotation=0&showTitle=false&size=73330&status=done&style=none&taskId=ub906d99a-7256-4dc2-9959-f5a10278e06&title=&width=1064)
+
+![](https://s2.loli.net/2023/01/30/QaAbg63nTiEhtKd.png)
+
 ##### 典型用户场景
 木鸟民宿app的典型用户场景有以下几种。
 **类型一：**
@@ -200,18 +209,26 @@ tags: ["竞品分析"]
 - 在民宿详情页展示上，三款产品包含的功能相似，但是**木鸟民宿app和小猪民宿app都没有在详情页上设置“达人推荐”入口**，小猪民宿app没有“周边相似好房”入口。
 - 在特色功能方面，**木鸟民宿app和途家民宿app开发了特色的“房屋PK”功能**，让用户能够在同类房源中进行精准比选。
 #### 4.3 结构层
-![](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1673688805758-3046ab1d-7798-45cc-93f3-0240269241c2.jpeg)
-![](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1673772246392-5f9f7f9b-71cf-43fd-a7f0-b4efbdf726cf.jpeg)
-![](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1673773147214-d5bc4a8e-84e2-4102-85b7-6a47bc2a5b95.jpeg)
+
+![](https://s2.loli.net/2023/01/30/gbND4oBWzKFQlfq.jpg)
+
+![](https://s2.loli.net/2023/01/30/FeIlPGLTQypz9Bh.jpg)
+
+![](https://s2.loli.net/2023/01/30/fJUgP4SCTk72VbL.jpg)
+
+
 
 - 木鸟民宿app的信息架构很全，分为推荐、收藏、发现、消息、我的共5个tab页，功能较完善，推荐页提供的房源分类很多，有专门的发现页作为房源种草功能。
 - 小猪民宿app分为首页、收藏、消息、我共4个tab页，相比木鸟民宿app来说首页的房源分类较少，没有专设的发现页，种草笔记直接置于首页“搜索民宿”功能下方。
 - 途家民宿app的信息架构比较完善，分为首页、收藏、发现、消息、我的共5个tab页，和木鸟民宿app的信息架构相似。
 #### 4.4 框架层
 ##### 房源搜索
-![幻灯片7.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556214859-3e1b3cb9-0967-4c80-8655-c3fd1265c19e.jpeg#averageHue=%23b19277&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u2c33707e&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%877.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1419523&status=done&style=none&taskId=u8ccbe5a6-9ac9-41aa-8dc2-b6316dc0a25&title=)
-![幻灯片19.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556707239-4503a57a-60ec-4bc2-a5e8-bfab9312ce7f.jpeg#averageHue=%23f9f9f8&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u8e9f286e&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8719.JPG&originHeight=5137&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1409925&status=done&style=none&taskId=u8e0d2a55-ad0a-4cc9-9754-ce2c44c3c56&title=)
-![幻灯片9.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674555681259-eaf65a48-d6f0-4985-b036-46e2125662b6.jpeg#averageHue=%23f9f9f8&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u775df535&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%879.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=847997&status=done&style=none&taskId=u56f8f26f-6236-451a-85b8-4d082f89605&title=)
+
+![幻灯片7.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556214859-3e1b3cb9-0967-4c80-8655-c3fd1265c19e.jpeg)
+
+![幻灯片19.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556707239-4503a57a-60ec-4bc2-a5e8-bfab9312ce7f.jpeg)
+
+![幻灯片9.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674555681259-eaf65a48-d6f0-4985-b036-46e2125662b6.jpeg)
 ###### （1）房源搜索方式
 
 - 对于目的性强，需求明确的用户可以在首页输入位置、入离时间、人数等指定信息进行搜索。
@@ -225,13 +242,16 @@ tags: ["竞品分析"]
 - 在个性化推荐方面，木鸟民宿不仅提供了关键词筛选，还增加了今日热搜、最佳入住地推荐、猜你喜欢等个性化推荐方式，给用户提供了更加多元的选择，并且配上房源图片，加强用户的转化。
 - 在界面设计方面，途家民宿在每个筛选字段前都加入了不同图标，关键词统一由灰底色块组成，整体界面层次感鲜明，简洁明了，符合30岁以上中高端人群的使用习惯。木鸟民宿在字段后标注“热”、“火”、“TOP”等更加突出主次关系。小猪民宿在热门推荐中标注了选择不同关键词的百分比，为用户提供其他用户的搜索行为参考。
 ##### 房源浏览
-![幻灯片10.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674557055046-17691306-74fc-41f5-bce6-3b1e8efe95ac.jpeg#averageHue=%23ebe8e5&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u0861a35c&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8710.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1414816&status=done&style=none&taskId=uaca5bd25-bc9f-4216-a8d5-64d708f0701&title=)
+
+![幻灯片10.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674557055046-17691306-74fc-41f5-bce6-3b1e8efe95ac.jpeg)
+
 ###### （1）信息流展示逻辑
 
 - 在整体展示方式上，三款产品都是**搜索栏+导航栏+单列流房源信息展示**。图中该房源在三款产品上的价格有明显差异，木鸟民宿>小猪民宿>途家民宿，木鸟民宿app的价格甚至是途家民宿的双倍。
 - 在房源信息卡上，三款产品都包含了房源大图、房源名称、房源信息、房源标签、房源价格，但是途家民宿和小猪民宿**将价格用亮色进行凸显，并且标示优惠标签刺激用户的消费欲望**，小猪民宿还特别标注了房源收藏人数，向用户展示房源的受欢迎程度。
 
-![幻灯片20.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674557324532-2801c734-ca62-49b9-a111-9725860bc95c.jpeg#averageHue=%23f4f2f1&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u3cbbba26&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8720.JPG&originHeight=14141&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=5082466&status=done&style=none&taskId=ua396fafc-2b16-4906-b607-beac5c3e74a&title=)
+![幻灯片20.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674557324532-2801c734-ca62-49b9-a111-9725860bc95c.jpeg)
+
 ###### （2）详情页内容展示逻辑
 
 - 木鸟民宿app：周边信息（概览、交通、景点、餐饮、购物）——房东介绍及房源信息——房客评价——配套设施——预订须知——入住须知——房东其他房源——周边相似房源。
@@ -240,17 +260,23 @@ tags: ["竞品分析"]
 
 **木鸟民宿更关注民宿本身带来的生活体验**，将位置周边的概览、交通、景点、餐饮、购物信息前置。
 **途家民宿选择了类酒店的展示逻辑，**特别显示了低价日历，为用户提供更加实惠的订房选择，设计更有人性化。
-**小猪民宿详情页展示信息相对另外两款产品来说较精简**，位置周边的信息只展示了具体地点、距离地铁站和景点的距离，也未展示房东其他房源**。**
-![幻灯片12.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556249208-4171682d-642a-4171-8ba1-858a22513876.jpeg#averageHue=%23e5e3df&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u9f652224&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8712.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1348044&status=done&style=none&taskId=ub8d7a5e9-643e-482a-9c8f-4aed5661244&title=)
+**小猪民宿详情页展示信息相对另外两款产品来说较精简**，位置周边的信息只展示了具体地点、距离地铁站和景点的距离，也未展示房东其他房源。
+
+![幻灯片12.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556249208-4171682d-642a-4171-8ba1-858a22513876.jpeg)
+
 ###### （3）详情页图片展示逻辑
 
 - **木鸟民宿app相册界面美观效果最佳**，采用细边框，单列头图结合双列图片的方式展示房源照片，上方没有导航栏，下方也没有预定信息栏，界面观感较好，但是图片没有添加房间类型标签，且相册中只有房东上传的图片。
 - **小猪民宿app的相册区分了房间类型**，但相册中也只有房东上传的图片。
 - **途家民宿app的相册包含信息最全**，涵盖房东相册和房客晒图，包含图片和视频，还标注了对应的房间，更加全面完整地展示房屋真实的现状。
 ##### 房源咨询
-![幻灯片13.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556292403-34e5bdfb-ac6d-414b-b30e-448b3301ddb0.jpeg#averageHue=%23ebc287&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=ud5191c9d&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8713.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1163137&status=done&style=none&taskId=ud8360504-c5a2-4abf-979a-b8e29b7b79b&title=)
-![幻灯片14.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556307451-dee3dc8b-2218-4dd1-9f72-073b4788c833.jpeg#averageHue=%23d3b99f&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u63369399&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8714.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1406014&status=done&style=none&taskId=ubbda9ff8-bb57-47e0-9334-82abc55f6f1&title=)
-![幻灯片15.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556333542-4da17e03-97e9-4f4f-b6e6-e8389a3d269d.jpeg#averageHue=%23ac9985&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u53cc6328&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8715.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1179724&status=done&style=none&taskId=u6977099d-a524-4fd8-8550-3e787de3d83&title=)
+
+![幻灯片13.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556292403-34e5bdfb-ac6d-414b-b30e-448b3301ddb0.jpeg)
+
+![幻灯片14.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556307451-dee3dc8b-2218-4dd1-9f72-073b4788c833.jpeg)
+
+![幻灯片15.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556333542-4da17e03-97e9-4f4f-b6e6-e8389a3d269d.jpeg)
+
 房源咨询的用户路径：
 
 - 小猪民宿、途家民宿：点击详情页的咨询按键——跳转到聊天页面——了解房东介绍
@@ -262,9 +288,12 @@ tags: ["竞品分析"]
 - 三款产品的房源预订流程类似，用户路径直接顺畅，通过首页搜索或者浏览推荐民宿，在房源详情页下方点击预订，在预订界面填写入住人信息，确定入住房源信息和费用无误即可提交订单。
 - 三款产品的房源退改政策不同，途家民宿仅限订单30分钟内免费取消，超过30分钟取消将扣除全部房费。小猪民宿允许入住前1-7天前免费取消，否则扣除全部房费。木鸟民宿实行阶梯制退款规则，分免费取消、扣除50%房费和扣除全部房费。
 ##### 房源种草
-![幻灯片16.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556344824-dd630d63-8a8d-4f19-b305-e4ec0bcd5586.jpeg#averageHue=%23a29270&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u89122574&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8716.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1826190&status=done&style=none&taskId=u51b7c133-3892-4bf4-9a30-6090254524d&title=)
-![幻灯片17.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556355386-6f8d05a1-baeb-4bd1-93df-421e9360ada2.jpeg#averageHue=%23e8e4df&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=ua7c92839&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8717.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1411349&status=done&style=none&taskId=uc173330a-e377-46c8-884b-8f5c67ca97a&title=)
-![幻灯片18.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556364917-d6225f4c-04f3-40cb-b36b-d4120229241c.jpeg#averageHue=%23a69f8b&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=uad96d7f9&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8718.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1345854&status=done&style=none&taskId=uae69f1df-b107-416c-a947-913c8bee867&title=)
+
+![幻灯片16.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556344824-dd630d63-8a8d-4f19-b305-e4ec0bcd5586.jpeg)
+
+![幻灯片17.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556355386-6f8d05a1-baeb-4bd1-93df-421e9360ada2.jpeg)
+
+![幻灯片18.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674556364917-d6225f4c-04f3-40cb-b36b-d4120229241c.jpeg)
 
 - 在用户路径上，**三款产品都可以通过发现页或者推荐内容跳转到种草笔记再跳转到房源详情页界面**。但是**只有途家民宿app的房源详情页界面上显示了达人推荐的内容，构成了达人推荐——房源详情的双向闭环**，其他两款产品在正常浏览房源详情页时无法查看kol达人的种草文章，对转化率有所损失。
 - 在种草笔记显示逻辑上，木鸟民宿app将跳转房源的链接顶置，加强了种草笔记跳转到房源详情页的转化，小猪民宿app保证阅读种草阅读笔记过程不被干扰，需浏览到最底部才能看到跳转链接。途家民宿app将笔记节选和链接并置，需点击“展开全部”才能浏览笔记全部内容。
@@ -275,9 +304,12 @@ tags: ["竞品分析"]
 - 在房源搜索页上，三款产品的评价展示入口均在房源主图的左下角。**木鸟民宿的评价显示逻辑是”评分+评级（超赞、赞）+评价数量“，小猪民宿和途家民宿的评价显示逻辑都是”评分+评价数量+评价摘录”**，将评价摘录显示在房源信息卡上有助于帮助用户快速建立对房源的初步印象，更好地找到目标房源。
 - 在房源详情页上，**木鸟民宿将评分条突出显示，并且整合“推荐”或者“分享”操作**，但是不能直接跳转到评价页。小猪民宿和途家民宿将评分条呈矩形窗口显示，可以直接跳转到评价页。**途家民宿以banner的形式呈现其他用户的评价摘录**，便于用户快速地建立对房源的初步印象。
 
-![幻灯片1.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674547653131-44b98abd-8811-4127-8511-83ab9858494e.jpeg#averageHue=%23c7ac93&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u48527386&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%871.JPG&originHeight=2953&originWidth=5669&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1564149&status=done&style=none&taskId=u03ec4df4-bba3-40dd-9af7-98bd738c116&title=)
-![幻灯片2.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674550787260-528d2321-c4d3-4783-b9bc-313271c921c8.jpeg#averageHue=%23b9b49b&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=ua6bca672&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%872.JPG&originHeight=2953&originWidth=5669&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1446508&status=done&style=none&taskId=ue2397fdc-f349-4789-a82b-d0350764cf1&title=)
-![幻灯片3.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674547652046-69964fcc-b642-492a-a778-501f2b324404.jpeg#averageHue=%23faf8f8&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=ub7d107a1&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%873.JPG&originHeight=2953&originWidth=5669&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1017672&status=done&style=none&taskId=u59256e02-3e21-4d2a-a8f0-e0c145e31f3&title=)
+![幻灯片1.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674547653131-44b98abd-8811-4127-8511-83ab9858494e.jpeg)
+
+![幻灯片2.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674550787260-528d2321-c4d3-4783-b9bc-313271c921c8.jpeg)
+
+![幻灯片3.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674547652046-69964fcc-b642-492a-a778-501f2b324404.jpeg)
+
 ###### （2）评价逻辑
 
 - 在评价类型上，**途家民宿可以同时查看本房源和同房东其他房源的评价**，木鸟民宿和小猪民宿只能查看本房源评价。
@@ -285,24 +317,32 @@ tags: ["竞品分析"]
 - 在评分体系上，木鸟民宿的评分由装潢设施、服务态度、环境卫生、图片真实构成，小猪民宿由整洁卫生、描述相符、交通位置、安全程度、性价比构成，途家民宿由描述、位置、性价比、服务、卫生、便捷构成，**三款产品共同关注的评价要素是环境卫生**。
 #### 4.5 表现层
 ##### 开屏页
-![幻灯片4.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674547604773-4fbbf1bf-e60a-4b30-92ff-b5208b1d63bc.jpeg#averageHue=%23e9c4a9&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u6d5713e2&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%874.JPG&originHeight=2953&originWidth=5669&originalType=binary&ratio=1&rotation=0&showTitle=false&size=842390&status=done&style=none&taskId=ubf3dac19-e4c5-4fce-970e-47915219df0&title=)
+
+![幻灯片4.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674547604773-4fbbf1bf-e60a-4b30-92ff-b5208b1d63bc.jpeg)
+
 
 - **页面布局**。木鸟民宿和途家民宿开屏页的表现方式都是上方大图加下方产品logo，而小猪民宿开屏页无大图，logo和slogan置于中间，更加简洁明了。木鸟民宿和小猪民宿开屏页展示了产品slogan，向用户清晰地展示了产品定位，途家民宿未展示slogan。
 - **广告投放**。木鸟民宿和小猪民宿开屏页无广告投放，途家民宿开屏页有活动广告，点击广告可以跳转至详情或第三方应用。
+
 ##### 首页
-![幻灯片5.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674550810957-6adfbe8f-46cd-4bf5-a1ee-077c4668b4cb.jpeg#averageHue=%23b19177&clientId=ubff943c4-486a-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u3d27fd61&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%875.JPG&originHeight=2953&originWidth=5669&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1506314&status=done&style=none&taskId=ub95c5298-6e48-425c-abc7-f8a98d7318d&title=)
+
+![幻灯片5.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674550810957-6adfbe8f-46cd-4bf5-a1ee-077c4668b4cb.jpeg)
 
 - **整体设计风格**。途家民宿的页面设计追求类酒店展示风格，色彩使用偏向于基础色。小猪民宿app主打单一粉色，风格清新，页面简约，符合年轻用户的审美习惯。木鸟民宿的色彩种类丰富，明亮活泼，页面层级丰富。
 - **功能模块布局**。三款产品的首页功能模块都包含搜索区、活动区、推荐区，将搜索民宿的主要功能放在首页显要位置，将平台活动以banner形式展现。小猪民宿的banner区图幅较小，在页面上单独设置，木鸟民宿和途家民宿的banner活动区与搜索区加以整合，起到了较好的填充空白作用。木鸟民宿的页面重心在banner活动区，更偏重于优惠引流，途家民宿和小猪民宿的页面重心在搜索区，更偏重于功能性。
 - **分类标签引流**。木鸟民宿app分类标签引流入口较多，特别是针对喜欢颜值、注重性价比的年轻群体推出了“网红推荐”、“学生特价”等特色标签，推荐元素比较全面。小猪民宿的分类标签更注重房源特点和住宿优惠，包括“一居”、“两居”和“连住特惠”、“学生专区”。途家民宿首页未设置分类标签，直接以信息流模式展示房源图片。
+
 ##### 收藏页
-![幻灯片6.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674549471526-f946c74f-e494-4020-a2b0-a6d7bad02eb8.jpeg#averageHue=%23f0ede9&clientId=u7ba99a57-8164-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=udbca4339&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%876.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1283152&status=done&style=none&taskId=ubdfb5dea-952c-4db7-b445-799f2e1d26d&title=)
+
+![幻灯片6.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674549471526-f946c74f-e494-4020-a2b0-a6d7bad02eb8.jpeg)
 
 - 木鸟民宿以双列流的形式展示房源收藏信息，突出房源名称和价格，并且加入了特色的房源对比和查看他人收藏的功能，侧重于房源浏览和对比的功能性体验。
 - 小猪民宿的收藏页分为收藏区和推荐区，在收藏区采用左侧房源图片+右侧房源信息的单列流呈现形式，并将优惠信息突出显示，侧重于房源优惠引流。下方“推荐美宿”采用上方房源图片+下方房源信息的双列流呈现形式，侧重于房源推荐引流。
 - 途家民宿以大篇幅、单列流展示房源图片，吸引用户注意力，侧重于房源浏览的沉浸式体验，并且将收藏分为房屋、房东、榜单、内容四个类别，浏览体验最佳。
+
 ##### 发现页
-![幻灯片21.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674562727153-1f3df64a-0478-4012-ba3a-634b6793e83c.jpeg#averageHue=%23938671&clientId=u42ce1b71-4bf6-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u18f76cc5&margin=%5Bobject%20Object%5D&name=%E5%B9%BB%E7%81%AF%E7%89%8721.JPG&originHeight=3021&originWidth=5802&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1825052&status=done&style=none&taskId=uccb6aba9-a29c-4f7b-a50f-46cb566e9d1&title=)
+
+![幻灯片21.JPG](https://cdn.nlark.com/yuque/0/2023/jpeg/34449442/1674562727153-1f3df64a-0478-4012-ba3a-634b6793e83c.jpeg)
 
 - 木鸟民宿app的发现页包含导航区和笔记区，“热门”和“体验分享”栏目下的内容都是双列流显示，强调“网红房源”或“城市”标签，突出显示评论和点赞数，利用网红属性和房源热度值吸引用户。“网红民宿”栏目下的内容是单列流显示，展示了房源的多张图片，侧重于多角度的房源展示吸引用户。
 - 小猪民宿app无专门的发现页，而是将种草笔记直接置于首页搜索区下方，直接通过双列流形式展示笔记图片和笔记标题，可以收藏或者查看笔记详情，没有设置导航区，因此无法快速查询某一类型的笔记或查看笔记对应的城市，适合无目的或目的性弱的用户。
