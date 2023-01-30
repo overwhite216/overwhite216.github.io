@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">遥遥宝的博客</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2023-01-30T17:42:28&#43;08:00</updated>
+    <id>https://overwhite216.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://overwhite216.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://overwhite216.github.io/atom.xml" />
+    <author>
+            <name>遥遥宝</name>
+            <uri>https://overwhite216.github.io</uri>
+            
+                <email>遥遥宝@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.91.1">Hugo</generator>
+        <entry>
+            <title type="text">Hello World</title>
+            <link rel="alternate" type="text/html" href="https://overwhite216.github.io/posts/hello-world/" />
+            <id>https://overwhite216.github.io/posts/hello-world/</id>
+            <updated>2023-01-30T17:25:18&#43;08:00</updated>
+            <published>2023-01-30T17:14:50&#43;08:00</published>
+            <author>
+                    <name>遥遥宝</name>
+                    <uri>https://overwhite216.github.io</uri>
+                    <email>遥遥宝@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">诚诚宝喜欢遥遥宝</summary>
+            
+                <content type="html">&lt;p&gt;诚诚宝喜欢遥遥宝&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://overwhite216.github.io/categories/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://overwhite216.github.io/tags/%E7%BD%91%E7%AB%99/" term="网站" label="网站" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>

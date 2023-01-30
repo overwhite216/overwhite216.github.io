@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>遥遥宝的博客</title>
+        <link>https://overwhite216.github.io/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.91.1 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>遥遥宝@gmail.com (遥遥宝)</managingEditor>
+        
+        
+            <webMaster>遥遥宝@gmail.com (遥遥宝)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Mon, 30 Jan 2023 17:42:28 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://overwhite216.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://overwhite216.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://overwhite216.github.io/posts/hello-world/</guid>
+                <pubDate>Mon, 30 Jan 2023 17:14:50 &#43;0800</pubDate>
+                
+                    <author>遥遥宝@gmail.com (遥遥宝)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;诚诚宝喜欢遥遥宝&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://overwhite216.github.io/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://overwhite216.github.io/tags/%E7%BD%91%E7%AB%99/">网站</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
