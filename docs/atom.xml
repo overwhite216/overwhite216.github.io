@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">闵若遥的博客</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2023-01-31T00:02:21&#43;08:00</updated>
+    <updated>2023-01-31T00:04:59&#43;08:00</updated>
     <id>https://overwhite216.github.io/</id>
     <link rel="alternate" type="text/html" href="https://overwhite216.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://overwhite216.github.io/atom.xml" />
@@ -16,6 +16,60 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.91.1">Hugo</generator>
+        <entry>
+            <title type="text">内容与活动运营成果</title>
+            <link rel="alternate" type="text/html" href="https://overwhite216.github.io/posts/yunying-1/" />
+            <id>https://overwhite216.github.io/posts/yunying-1/</id>
+            <updated>2023-01-31T00:04:56&#43;08:00</updated>
+            <published>2023-01-20T20:48:14&#43;08:00</published>
+            <author>
+                    <name>闵若遥</name>
+                    <uri>https://overwhite216.github.io</uri>
+                    <email>170242000@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">内容运营 运营小红书、大众点评的个人内容帐号，拥有1000左右粉丝，累计发表笔记和评价……</summary>
+            
+                <content type="html">&lt;h2 id=&#34;内容运营&#34;&gt;内容运营&lt;/h2&gt;
+&lt;p&gt;运营小红书、大众点评的个人内容帐号，拥有1000左右粉丝，累计发表笔记和评价600余篇，品类包括美食、旅游、美妆、护肤，累计获赞1.1万，单篇最高浏览量超7000。
+&lt;img src=&#34;https://s2.loli.net/2023/01/30/98mFhoG67pzTx4L.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://s2.loli.net/2023/01/30/Oud7cpxV9rqBmTw.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://s2.loli.net/2023/01/30/ZrMGn7s5JqSu13e.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://s2.loli.net/2023/01/30/xUMD59ZfOQApdJR.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://s2.loli.net/2023/01/30/vlMyRKaB74f3Fuc.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;活动运营&#34;&gt;活动运营&lt;/h2&gt;
+&lt;p&gt;负责体育运动类产品运营推广海报设计
+&lt;img src=&#34;https://s2.loli.net/2023/01/30/DJRKET8pBUQFakw.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://s2.loli.net/2023/01/30/RmI2vTejsNcQMoZ.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://overwhite216.github.io/categories/%E8%BF%90%E8%90%A5/" term="运营" label="运营" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://overwhite216.github.io/tags/%E8%BF%90%E8%90%A5/" term="运营" label="运营" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">木鸟民宿app竞品分析报告</title>
             <link rel="alternate" type="text/html" href="https://overwhite216.github.io/posts/muniao/" />
