@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">闵若遥的博客</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2023-01-31T00:37:21&#43;08:00</updated>
+    <updated>2023-01-31T00:39:20&#43;08:00</updated>
     <id>https://overwhite216.github.io/</id>
     <link rel="alternate" type="text/html" href="https://overwhite216.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://overwhite216.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">木鸟民宿app竞品分析报告</title>
             <link rel="alternate" type="text/html" href="https://overwhite216.github.io/posts/muniao/" />
             <id>https://overwhite216.github.io/posts/muniao/</id>
-            <updated>2023-01-31T00:36:55&#43;08:00</updated>
+            <updated>2023-01-31T00:39:15&#43;08:00</updated>
             <published>2023-01-29T20:48:14&#43;08:00</published>
             <author>
                     <name>闵若遥</name>
@@ -495,22 +495,22 @@
 &lt;li&gt;分类标签：首页房源分类标签达十余种，引流入口很多，匹配不同用户需求。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;优化建议&#34;&gt;优化建议&lt;/h4&gt;
-&lt;h5 id=&#34;房源预订&#34;&gt;房源预订&lt;/h5&gt;
+&lt;p&gt;房源预订&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;增加积分抵扣房费功能，在下单时直接进行抵扣，不需要提前兑换，优化产品使用流程。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;房源浏览-1&#34;&gt;房源浏览&lt;/h5&gt;
+&lt;p&gt;房源浏览&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;提供多样化的房源展示方式，鼓励房东上传视频或户型图等。&lt;/li&gt;
 &lt;li&gt;房源详情页图片在保证原有UI效果基础上，增加房东相册和房客相册分类，并且标注对应的房间名称。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;房源种草-1&#34;&gt;房源种草&lt;/h5&gt;
+&lt;p&gt;房源种草&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;在房源详情页上增加“达人推荐”板块，实现种草笔记到房源详情页的双向跳转。&lt;/li&gt;
 &lt;li&gt;种草笔记详情页上增加收藏功能，并且在“收藏”页上可以分类查看。&lt;/li&gt;
 &lt;li&gt;发现页上增加“写笔记”入口，并凸显“写笔记返积分”标语，在用户浏览种草笔记同时刺激用户创作欲望。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;房源评价-1&#34;&gt;房源评价&lt;/h5&gt;
+&lt;p&gt;房源评价&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;评价激励机制：通过写评价返现、优质评价得好礼等方式促进用户发表评价，在评价区开通评论功能，方便用户间讨论交流，激发用户创作欲望。&lt;/li&gt;
 &lt;li&gt;房源评价页增加显示“同房东其他房源评价”，并且增加可以选择查看有图、最新、好评、差评的功能。&lt;/li&gt;
