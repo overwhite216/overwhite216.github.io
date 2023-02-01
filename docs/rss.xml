@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 31 Jan 2023 16:04:45 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 11:53:46 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://overwhite216.github.io/rss.xml" />
         
@@ -432,7 +432,8 @@
 &lt;li&gt;小猪民宿app无专门的发现页，而是将种草笔记直接置于首页搜索区下方，直接通过双列流形式展示笔记图片和笔记标题，可以收藏或者查看笔记详情，没有设置导航区，因此无法快速查询某一类型的笔记或查看笔记对应的城市，适合无目的或目的性弱的用户。&lt;/li&gt;
 &lt;li&gt;途家民宿app的发现页包括banner区、导航区、笔记区、发布区。banner区占据页面的视觉重心，展示每个城市的精选榜单，笔记区显示了笔记图片和部分内容，具备收藏和点赞功能，笔记浏览体验最佳。发布区突出显示“发文最高送400积分”，用积分福利作为利益钩子激励用户创作。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;五宏观swot总结&#34;&gt;五、宏观：SWOT总结&lt;/h2&gt;
+&lt;h2 id=&#34;五总结与建议&#34;&gt;五、总结与建议&lt;/h2&gt;
+&lt;h3 id=&#34;51-swot总结&#34;&gt;5.1 SWOT总结&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -447,13 +448,13 @@
 &lt;td&gt;&lt;strong&gt;优势&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;· 优质服务、高性价比 &lt;br&gt; · 主打网红民宿，快速抢占年轻用户群体&lt;br&gt; · C to C 轻运营模式节省人力成本，抗风险能力更强&lt;br&gt; · 房源种类丰富，涵盖特色房源&lt;/td&gt;
 &lt;td&gt;· 主打有人情味的社交住宿社区，人性化服务贴近消费者&lt;br&gt; · 价格优势，吸引学生群体&lt;br&gt; · C to C 轻运营模式节省人力成本，抗风险能力更强&lt;br&gt; · 房源种类丰富，涵盖特色房源&lt;/td&gt;
-&lt;td&gt;&lt;br&gt; · 背靠携程平台，具有明现流量优势&lt;br&gt; · 房源量大，房源优质，管理更加规范&lt;br&gt; · 产品功能齐全，业务广泛，用户体验感好&lt;/td&gt;
+&lt;td&gt;· 背靠携程平台，具有明现流量优势&lt;br&gt; · 房源量大，房源优质，管理更加规范&lt;br&gt; · 产品功能齐全，业务广泛，用户体验感好&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;劣势&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;· 房源量有待增加，不具备足够竞争力&lt;br&gt; · 社交功能不够完善，用户之间的交流互动不足&lt;/td&gt;
-&lt;td&gt;&lt;br&gt; · 社交功能不够完善，用户之间的交流互动不足&lt;br&gt; · 产品体验欠佳，部分功能有待完善&lt;/td&gt;
-&lt;td&gt;&lt;br&gt; · 针对差旅用户的定位与喜爱网红民宿的年轻群体之间存在割裂&lt;/td&gt;
+&lt;td&gt;· 社交功能不够完善，用户之间的交流互动不足&lt;br&gt; · 产品体验欠佳，部分功能有待完善&lt;/td&gt;
+&lt;td&gt;· 针对差旅用户的定位与喜爱网红民宿的年轻群体之间存在割裂&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;机遇&lt;/strong&gt;&lt;/td&gt;
@@ -465,23 +466,23 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;六微观产品体验总结&#34;&gt;六、微观：产品体验总结&lt;/h2&gt;
-&lt;h3 id=&#34;61-小猪民宿app&#34;&gt;6.1 小猪民宿app&lt;/h3&gt;
-&lt;h4 id=&#34;亮点&#34;&gt;亮点&lt;/h4&gt;
+&lt;h3 id=&#34;52-用户体验总结&#34;&gt;5.2 用户体验总结&lt;/h3&gt;
+&lt;h4 id=&#34;小猪民宿app&#34;&gt;小猪民宿app&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;亮点&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;房源搜索：房源搜索的筛选字段较多，并且显示不同字段搜索的百分比。&lt;/li&gt;
 &lt;li&gt;房源浏览：房源信息卡上用亮色凸显价格信息，并且标示优惠标签和收藏人数刺激用户的消费欲望。&lt;/li&gt;
 &lt;li&gt;私域运营：私域流量承接完善，服务效率高，具备朋友圈内容和视频号运营。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;不足&#34;&gt;不足&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;不足&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;用户运营：没有搭建会员体系，无法激励用户成长。&lt;/li&gt;
 &lt;li&gt;用户互动：种草笔记详情页不具备笔记评论点赞功能，只能收藏或者分享，互动性较低。&lt;/li&gt;
 &lt;li&gt;房源评价：评价页功能不完善，不具备分类导航和分类标签。&lt;/li&gt;
 &lt;li&gt;房源种草：种草笔记未设置分类导航区，无法查询某一类型的笔记或查看笔记对应的城市。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;62-途家民宿app&#34;&gt;6.2 途家民宿app&lt;/h3&gt;
-&lt;h4 id=&#34;亮点-1&#34;&gt;亮点&lt;/h4&gt;
+&lt;h4 id=&#34;途家民宿app&#34;&gt;途家民宿app&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;亮点&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;房源浏览：房源详情页显示”低价日历“，房源相册包含信息最全，分为房东相册和房客晒图，有图片和视频形式，并标注了对应的房间，还可以查看当前房源和同房东其他房源评价。&lt;/li&gt;
 &lt;li&gt;房源筛选：民宿筛选方式达10余种，让房客用户精准地定位到目标房源。&lt;/li&gt;
@@ -489,37 +490,37 @@
 &lt;li&gt;房源种草：利用kol产出UGC，从种草笔记到房源详情页可以双向跳转，种草笔记互动功能最全面。&lt;/li&gt;
 &lt;li&gt;用户运营：具备完善的会员体系和积分体系，积分可以直接抵扣房费。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;不足-1&#34;&gt;不足&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;不足&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;分类标签：首页未设置分类标签引流入口，不利于有针对性地进行用户分层导流。&lt;/li&gt;
 &lt;li&gt;房源搜索：房源搜索页的关键词搜索联想和个性化推荐不足。&lt;/li&gt;
 &lt;li&gt;私域运营：私域运营不够完善，“选房小助手”类似客服，服务效率低，提供的功能体验有限。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;63-木鸟民宿app&#34;&gt;6.3 木鸟民宿app&lt;/h3&gt;
-&lt;h4 id=&#34;亮点-2&#34;&gt;亮点&lt;/h4&gt;
+&lt;h4 id=&#34;木鸟民宿app&#34;&gt;木鸟民宿app&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;亮点&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;房源排序：房源排序方式丰富，有特色的“预订最多排序”和“新上房源排序”，满足个性化需求。&lt;/li&gt;
 &lt;li&gt;房源对比：具有“房源对比”的特色功能，可以任意选择指定收藏房源进行对比。&lt;/li&gt;
 &lt;li&gt;房源搜索：房源搜索页增加了今日热搜、最佳入住地推荐、猜你喜欢等个性化推荐方式，标注“热”、“火”、“TOP”等突出重点。&lt;/li&gt;
 &lt;li&gt;分类标签：首页房源分类标签达十余种，引流入口很多，匹配不同用户需求。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;优化建议&#34;&gt;优化建议&lt;/h4&gt;
-&lt;p&gt;房源预订&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优化建议&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;（1）房源预订&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;增加积分抵扣房费功能，在下单时直接进行抵扣，不需要提前兑换，优化产品使用流程。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;房源浏览&lt;/p&gt;
+&lt;p&gt;（2）房源浏览&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;提供多样化的房源展示方式，鼓励房东上传视频或户型图等。&lt;/li&gt;
 &lt;li&gt;房源详情页图片在保证原有UI效果基础上，增加房东相册和房客相册分类，并且标注对应的房间名称。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;房源种草&lt;/p&gt;
+&lt;p&gt;（3）房源种草&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;在房源详情页上增加“达人推荐”板块，实现种草笔记到房源详情页的双向跳转。&lt;/li&gt;
 &lt;li&gt;种草笔记详情页上增加收藏功能，并且在“收藏”页上可以分类查看。&lt;/li&gt;
 &lt;li&gt;发现页上增加“写笔记”入口，并凸显“写笔记返积分”标语，在用户浏览种草笔记同时刺激用户创作欲望。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;房源评价&lt;/p&gt;
+&lt;p&gt;（4）房源评价&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;评价激励机制：通过写评价返现、优质评价得好礼等方式促进用户发表评价，在评价区开通评论功能，方便用户间讨论交流，激发用户创作欲望。&lt;/li&gt;
 &lt;li&gt;房源评价页增加显示“同房东其他房源评价”，并且增加可以选择查看有图、最新、好评、差评的功能。&lt;/li&gt;
