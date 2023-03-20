@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>闵若遥的博客</title>
+        <link>https://overwhite216.github.io/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.91.1 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>170242000@qq.com (闵若遥)</managingEditor>
+        
+        
+            <webMaster>170242000@qq.com (闵若遥)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Mon, 20 Mar 2023 23:53:46 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://overwhite216.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>木鸟民宿app竞品分析报告</title>
+                <link>https://overwhite216.github.io/posts/muniao/</link>
+                <guid isPermaLink="true">https://overwhite216.github.io/posts/muniao/</guid>
+                <pubDate>Sun, 29 Jan 2023 20:48:14 &#43;0800</pubDate>
+                
+                    <author>170242000@qq.com (闵若遥)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;一分析背景&#34;&gt;一、分析背景&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;分析目的&lt;/strong&gt;：分析在线民宿预订市场中木鸟民宿app的竞品，从行业、用户、用户体验五要素等方面对不同产品进行全方位剖析，总结木鸟民宿app在内容、交互、功能、体验等方面的差异点、竞争力、缺陷点，输出深度竞品分析报告和产品未来优化方案。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;竞品确定&lt;/strong&gt;：小猪民宿和途家民宿的目标用户群、使用场景、解决的需求、核心功能与木鸟民宿app有较高的重合度，可以作为竞品进行分析。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;测试环境&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;产品名称&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;产品版本&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;体验平台&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;体验系统&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;体验时间&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;体验人&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;木鸟民宿&lt;/td&gt;
+&lt;td&gt;V7.9.4&lt;/td&gt;
+&lt;td rowspan=&#34;3&#34;&gt;HUAWEI P40 Pro&lt;/td&gt;
+&lt;td rowspan=&#34;3&#34;&gt;3.0.0&lt;/td&gt;
+&lt;td rowspan=&#34;3&#34;&gt;2023.1.13&lt;/td&gt;
+&lt;td rowspan=&#34;3&#34;&gt;闵若遥&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;小猪民宿&lt;/td&gt;
+&lt;td&gt;6.49.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;途家民宿&lt;/td&gt;
+&lt;td&gt;8.68.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;二行业分析&#34;&gt;二、行业分析&lt;/h2&gt;
+&lt;h3 id=&#34;21-行业政策分析&#34;&gt;2.1 行业政策分析&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;国家政策支持&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2015年开始，国家政府以及地方政府对互联网民宿预订市场的发展持鼓励态度。2018年，国务院颁布了《完善促进消费体制机制实施方案(2018-2020年)》，明确鼓励发展租赁式公寓、民宿客栈等旅游短租服务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;民宿规范制定&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;国家及地方制定一系列规范化政策文件，不断完善行业监管政策，提高民宿产业规范化程度。2017 年国家旅游局发布《旅游民宿基本要求与评价》，2020年国家市场监督管理总局出台《乡村民宿服务质量规范》，制定了民宿的评价原则、基本要求、等级划分依据。民宿评级成为重要的发展推动因素，在环境、设施、服务、卫生等方面提供规范指引。&lt;/p&gt;
+&lt;h3 id=&#34;22-行业经济分析&#34;&gt;2.2 行业经济分析&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;经济发展水平&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2022年，全国居民人均可支配收入36883元，比上年实际增长2.9%，与经济增长基本同步。城镇居民人均可支配收入49283元，实际增长1.9%，农村居民人均可支配收入20133元，实际增长4.2%。随着居民人均可支配收入提升，疫情逐步缓解，人们对旅游住宿的消费需求也会进一步提升。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;产业结构发展&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;民宿产业具备与其他产业融合的优势，2020年以来本地化、近距离、多样化的文化旅游消费占据主导，随订随走演变成一种重要的出行方式，民宿产业成为了本地游及周边游发展框架中的重要组成部分。&lt;/p&gt;
+&lt;h3 id=&#34;23-行业社会分析&#34;&gt;2.3 行业社会分析&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;共享经济兴起&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;随着共享经济的发展，国内出游者对于住宿的多样化需求以及地产行业空置率居高推动了住宿分享行业的发展，借助互联网平台进行民宿在线预订受到普遍欢迎。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;民宿需求增长&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;民宿消费呈现出短时间、近距离、高频次等新特征，自驾游、乡村游、周边游逐渐兴起，“微度假”、“宅民宿”等成为新休闲方式，人们更加倾向能够欣赏自然景观、体验风土人情、康养休闲度假的民宿。特别是国内90后、00后群体对于性价比较高又能满足网红打卡需求的民宿认可程度很高。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;民宿市场分化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2020年以来，疫情给在线民宿预订市场带来冲击，市场出现“冰火两重天”，一方面爱彼迎、贝壳等成功上市，深受资本青睐，另一方面蛋壳公寓、蘑菇公寓、青客公寓也逐渐暴雷，深陷问题漩涡。在未来，行业将迈向洗牌期，精细化运营将是制胜关键。&lt;/p&gt;
+&lt;h3 id=&#34;24-行业技术分析&#34;&gt;2.4 行业技术分析&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;网络营销手段&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;疫情给线下民宿市场带来危机考验，但是互联网营销手段使得市场转危为安。民宿房主选择携程、途家、美团、木鸟、小猪等平台进行线上销售，同时借助抖音、小红书、微信公众号等进行自媒体宣传，为网红民宿造势，促进了品牌传播，成功地应对了疫情危机。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新型技术赋能&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;互联网时代的新技术为O2O模式的在线民宿预订市场提供了更多玩法和可能性。在线民宿预订平台连接了房主与租客，很好地解决了供需匹配的问题，盘活了闲置资源，用户可以借助app或者小程序浏览全国各地的精品房源，并且快捷地进行房源比选和房源在线预订。除了通过图片和短视频形式查看房源，用户还可以借助AR/VR技术足不出户就能实景看房。在未来，智能门锁、人脸识别、智能家居等新技术还会激发民宿市场的更多可能性。&lt;/p&gt;
+&lt;h2 id=&#34;三用户分析&#34;&gt;三、用户分析&lt;/h2&gt;
+&lt;h3 id=&#34;31-民宿预订用户分析&#34;&gt;3.1 民宿预订用户分析&lt;/h3&gt;
+&lt;h4 id=&#34;用户标签&#34;&gt;用户标签&lt;/h4&gt;
+&lt;p&gt;国内民宿市场客源呈现&lt;strong&gt;年轻化、女性化、高线城市化&lt;/strong&gt;的趋势。据调查，在年龄分布上，全国客源中00后占比26.2%，95后占比25.0%，成为主要消费人群。在性别分布上，女性占比54.4%，男性占比45.6%，呈现“她经济”趋势。在城市分布上，客源主要分布在深圳、广东、北京、成都、上海等高线城市，在一二线城市中强势渗透，三四线城市稳步提升。在消费金额上，95后、90后、85后消费金额较高，00后虽然是消费主力但是贡献消费金额不高。在入住类型上，朋友/情侣两人入住比例最高，占比41%，其次是3-4人家庭住宿，占比34%，4人以上小型团队和独自入住的比例较低。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/7zBfvJIntN8siGd.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/f3erFzako4wVQY1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;覆盖场景&#34;&gt;覆盖场景&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;民宿消费覆盖的场景和人群日趋多元&lt;/strong&gt;，包含家庭出游、团队轰趴、带宠出游、商务出行、网红打卡等场景，可以满足宽敞舒适、便捷自由、可互动交流、可携带宠物、可减压娱乐等用户需求，因此民宿逐渐成为住宿消费的主流趋势。&lt;/p&gt;
+&lt;p&gt;民宿的移动端预订占比已近九成，用户的主要诉求集中在&lt;strong&gt;民宿性价比&lt;/strong&gt;和&lt;strong&gt;民宿品质&lt;/strong&gt;上。其中上班族和学生占比达77%，是民宿在线预定的主力军，但是她们的消费需求有所差异，职场新人倾向于选择性价比较高的民宿，注重交通便捷，而高管群体倾向高品质民宿，学生群体出现了多次短租、长租等多元形式，在高校聚集区域消费频次高于其他群体。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/FRiJnGuxfOptNM4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/ClYaKDWd5XMBQ9T.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;32-三款竞品用户分析&#34;&gt;3.2 三款竞品用户分析&lt;/h3&gt;
+&lt;h4 id=&#34;用户规模对比&#34;&gt;用户规模对比&lt;/h4&gt;
+&lt;p&gt;根据七麦数据统计结果，2022年1月至2023年1月的一年时间内小猪民宿app下载量估计为110万次，木鸟民宿app估计为222万次，途家民宿app为160万次，&lt;strong&gt;全年app下载量排名是木鸟&amp;gt;途家&amp;gt;小猪&lt;/strong&gt;。在全年春秋冬三个季节中，三款产品的下载量接近，但是&lt;strong&gt;在2020年6月至9月期间，木鸟民宿app的下载量迎来爆发式增长&lt;/strong&gt;，推测与暑期周边游自驾游兴起、民宿热趋势有关。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/FkbtdyQOpgPZuvD.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;用户构成对比&#34;&gt;用户构成对比&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;途家民宿app的用户&lt;strong&gt;男女相对平衡&lt;/strong&gt;，主力消费人群集中在&lt;strong&gt;31-35岁&lt;/strong&gt;人群，其次是24-30岁人群，中等消费者占比最多，达35%，其次是高消费者、中高消费者，中低和低消费者总占比仅有10%，&lt;strong&gt;用户的消费水平在三款产品中最高&lt;/strong&gt;，65%的用户来自一二线城市。&lt;/li&gt;
+&lt;li&gt;小猪民宿app&lt;strong&gt;男性比例明显多于女性&lt;/strong&gt;，&lt;strong&gt;24-30岁和31-35岁&lt;/strong&gt;人群占比比较平衡，分别占33%和28%，&lt;strong&gt;用户的消费水平在三款产品中中等&lt;/strong&gt;，中等、中高、高消费者比例相近，均占25%，71%的用户来自一二线城市。&lt;/li&gt;
+&lt;li&gt;木鸟民宿app&lt;strong&gt;女性比例多于男性&lt;/strong&gt;，其中女性占比58%，男性占比42%，呈现“她经济”特点，用户年龄分布和小猪民宿app用户相近，用户的消费水平在三款产品中最低，&lt;strong&gt;一半用户都是中低消费人群&lt;/strong&gt;，木鸟78%的用户来自一二线城市，&lt;strong&gt;将近一半用户来自新一线城市&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/QaAbg63nTiEhtKd.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/gbND4oBWzKFQlfq.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/FeIlPGLTQypz9Bh.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/fJUgP4SCTk72VbL.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;典型用户场景&#34;&gt;典型用户场景&lt;/h4&gt;
+&lt;p&gt;木鸟民宿app的典型用户场景有以下几种。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;类型一：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标用户&lt;/strong&gt;：00后女大学生，在节假日和男朋友到热门旅游城市游玩，想要打卡网红民宿。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;典型使用场景&lt;/strong&gt;：女生在线浏览种草笔记后选择入住网红ins风的loft民宿，里面的有落地大窗和天窗，配备了浴缸和投影仪设备，高品质、高颜值的环境满足打卡拍照需求。抵达民宿后，女生在民宿里进行多角度自拍后上传到社交媒体上进行打卡，向朋友推荐入住的网红民宿，并在下方附上民宿定位信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;类型二：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标用户&lt;/strong&gt;：95后一二线城市大学生。周末想和几个朋友一起轰趴，对房间设施要求较高，但是预算较低。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;典型使用场景&lt;/strong&gt;：民宿性价比较高，环境很好，空间宽敞，里面有厨房、投影仪、卡拉OK等措施，可以和好朋友一起做饭、看电影和唱歌，轰趴后还可以在民宿内留宿。结束愉快的轰趴之后，学生将轰趴的照片上传至朋友圈，记录美好的轰趴生活，引起了朋友圈其他好友的关注。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;类型三：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标用户&lt;/strong&gt;：90后北上广白领，平时工作忙碌，想在周末来一场周边游体验放松舒适、不一样的旅行。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;典型使用场景&lt;/strong&gt;：白领平时经常出差经常入住标准化的商务酒店，在周末放松休息时很想体验一次独具设计感、有趣新潮的民宿。入住民宿后，白领感受到了和之前出差入住的商旅酒店不一样的充满人情味的服务体验，和房东以及其他房客亲切交流，获得了放松舒适的旅游体验，并在下次旅行时将民宿纳入住宿选择中。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;类型四：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;目标用户&lt;/strong&gt;：一家三口，周末决定带着宠物狗出去游玩放松。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;典型使用场景&lt;/strong&gt;：父母想订农家乐作为住宿，但是女儿觉得农家乐比较偏远，环境品质一般，因此向父母推荐入住民宿，民宿可以携带宠物，又配备厨房可以自主下厨，环境条件较好，用学生优惠预订房间性价比很高，最后入住民宿后一家三口都觉得很满意，满足自身的需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;四用户体验五要素分析&#34;&gt;四、用户体验五要素分析&lt;/h2&gt;
+&lt;h3 id=&#34;41-战略层&#34;&gt;4.1 战略层&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;木鸟民宿&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;小猪民宿&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;途家民宿&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;slogan&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;只为美好住宿多一种选择&lt;/td&gt;
+&lt;td&gt;住得更好，花得更少&lt;/td&gt;
+&lt;td&gt;让不动产增值，让家一起旅行&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;产品定位&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;短租房、日租房在线预订平台&lt;/td&gt;
+&lt;td&gt;依托共享经济，国内知名的短租民宿预订平台，具有人情味的社交住宿社区&lt;/td&gt;
+&lt;td&gt;全球领先的民宿短租预订平台&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;目标用户&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;有网红民宿居住、打卡拍照需求的年轻群体&lt;/td&gt;
+&lt;td&gt;18-35岁有旅游周末游需求的用户&lt;/td&gt;
+&lt;td&gt;以商务差旅的中高端消费群体为主，其次是有家庭出游、聚会团建、休闲度假需求的用户&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;商业模式&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;C2C；业主自营&lt;/td&gt;
+&lt;td&gt;C2C；业主自营&lt;/td&gt;
+&lt;td&gt;B2C；平台管理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;平台特点&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;优质服务、高性价比、网红民宿&lt;/td&gt;
+&lt;td&gt;更个性化、更具人文关怀、更有家庭氛围、更高性价比&lt;/td&gt;
+&lt;td&gt;携程导流、中高端定位、针对差旅用户、房源量大&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;房源量&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;海内外130万套+&lt;/td&gt;
+&lt;td&gt;海内外80万套+&lt;/td&gt;
+&lt;td&gt;海内外230万套+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;覆盖城市&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;海内外700+城市&lt;/td&gt;
+&lt;td&gt;国内400+城市，国外250+ 目的地&lt;/td&gt;
+&lt;td&gt;国内400+城市，国外1000+ 目的地&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;发布日期&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;2014-07-20&lt;/td&gt;
+&lt;td&gt;2015-03-17&lt;/td&gt;
+&lt;td&gt;2012-12-14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;近90日版本更新频次&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;6次（0.5次/周）&lt;/td&gt;
+&lt;td&gt;2次（0.2次/周）&lt;/td&gt;
+&lt;td&gt;10次（0.8次/周）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;木鸟民宿主打网红民宿和高性价比房源，平台优势依托于民宿主流消费群体，相比途家民宿来说房源量是短板。小猪民宿主打具有人情味的社交住宿社区，坚持C to C的轻资产模式。途家民宿依靠携程导流，主要针对差旅用户，房源量充足，房源质量较好。&lt;/li&gt;
+&lt;li&gt;木鸟民宿和小猪民宿都是C to C 轻运营模式，线下房东和房客直接接触，可以节省人力成本，快速扩展市场，但是非常考验平台对于房东和房客的约束管理制度。途家民宿是B to C 重运营模式，具有自己的专业服务运营团队，管理更加规范，房源多而集中，但是人力成本较大。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;木鸟民宿&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;小猪民宿&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;途家民宿&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td rowspan=&#34;2&#34;&gt;&lt;strong&gt;会员体系&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;会员等级&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;普通、白银、黄金、钻石4个等级，根据累计消费额判断&lt;/td&gt;
+&lt;td&gt;无&lt;/td&gt;
+&lt;td&gt;普通、白银、黄金、白金、钻石会员5个等级，根据年度消费额判定&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;会员权益&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;积分翻倍&lt;/td&gt;
+&lt;td&gt;无&lt;/td&gt;
+&lt;td&gt;积分翻倍、专属红包、免费办理意外保险&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td rowspan=&#34;3&#34;&gt;&lt;strong&gt;积分体系&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;积分获取&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;签到、完善资料、订房、分享房源、发现文章、邀请好友&lt;/td&gt;
+&lt;td&gt;签到、完善资料、订房、绑定社交帐号、点评、活动&lt;/td&gt;
+&lt;td&gt;订房、点评、登录社区、发表攻略游记、点评社区文章&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;积分兑换&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;兑换消费券&lt;/td&gt;
+&lt;td&gt;兑换消费券、参与线上活动&lt;/td&gt;
+&lt;td&gt;抵扣房费、换取礼品、参与积分抽大奖&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;积分流失&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;可以累积，不设置有效期&lt;/td&gt;
+&lt;td&gt;有效期至次年年底&lt;/td&gt;
+&lt;td&gt;不同积分有效期不同，多为一年左右&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td rowspan=&#34;4&#34;&gt;&lt;strong&gt;私域运营&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;入口位置&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;小程序端首页“点我领红包”&lt;/td&gt;
+&lt;td&gt;app端首页banner“添加小猪旅行管家”&lt;/td&gt;
+&lt;td&gt;app端房源浏览页右侧“多人住宿咨询”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;利益钩子&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;添加微信获取大额礼包，专属推荐，一站式服务&lt;/td&gt;
+&lt;td&gt;最高减200福利，融创乐园四项游玩体验券，旅游住宿攻略，贴心管家式服务&lt;/td&gt;
+&lt;td&gt;获得精选房源、订购优惠、民宿周边、设施设备&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;服务效率&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;添加即主动推送专属礼包&lt;/td&gt;
+&lt;td&gt;添加即主动推送专属礼包&lt;/td&gt;
+&lt;td&gt;添加后需要告知具体出行计划才会推荐当地宝藏民宿&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;内容运营&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;朋友圈房源推荐：每日多更，视频号房源推荐&lt;/td&gt;
+&lt;td&gt;朋友圈房源推荐：每月1-3更，视频号房源推荐&lt;/td&gt;
+&lt;td&gt;无&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td rowspan=&#34;2&#34;&gt;&lt;strong&gt;其他&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;促销活动&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;暖冬季活动、开年好运活动&lt;/td&gt;
+&lt;td&gt;民宿新春惊喜优惠、新客专享优惠&lt;/td&gt;
+&lt;td&gt;小红书分享民宿领现金红包&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;邀请有奖&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;邀请好友可享受130元大礼包、96折券、100积分&lt;/td&gt;
+&lt;td&gt;邀请好友可享受300元住宿基金&lt;/td&gt;
+&lt;td&gt;可以将产品推荐给好友，无相应奖励机制&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;途家民宿和木鸟民宿都构建了会员体系&lt;/strong&gt;，途家民宿的会员等级根据年度消费额判定，需要用户每年保证一定消费额度以维持会员等级，而木鸟民宿是根据用户累计消费额判定会员等级。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;途家民宿提供了完善的积分兑换内容&lt;/strong&gt;，区别于只能用积分兑换消费券的木鸟、小猪民宿，途家民宿&lt;strong&gt;可以直接用积分抵扣房费&lt;/strong&gt;，优化了用户消费积分的体验。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;木鸟民宿的私域运营入口只设置在小程序端&lt;/strong&gt;，在app端未设置，难以将app端用户转化为私域流量。小猪民宿的私域运营入口设置在app端首页banner区，用充足的利益钩子吸引用户添加企微。&lt;strong&gt;途家民宿的私域运营利益钩子不足&lt;/strong&gt;，且添加后不会主动推送福利礼包，也无相应的朋友圈或视频号内容运营，在将流量转化为私域流量上有待提升。&lt;/li&gt;
+&lt;li&gt;木鸟民宿和小猪民宿都针对假日或季节推出特定促销优惠活动，途家民宿还推出了小红书分享民宿领现金红包的活动，并且详细展示优质笔记的创作方法，激励用户输出优质原创内容。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;42-范围层&#34;&gt;4.2 范围层&lt;/h3&gt;
+&lt;h4 id=&#34;产品功能结构图&#34;&gt;产品功能结构图&lt;/h4&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;strong&gt;功能类型&lt;/strong&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;strong&gt;木鸟民宿&lt;/strong&gt;&lt;/th&gt;&lt;th&gt;&lt;strong&gt;小猪民宿&lt;/strong&gt;&lt;/th&gt;&lt;th&gt;&lt;strong&gt;途家民宿&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&#34;6&#34;&gt;民宿搜索关键词&lt;/td&gt;&lt;td&gt;输入关键词&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;输入景点/地标&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;输入地名&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;输入房源名称&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;输入房源编号&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;输入房东昵称&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;8&#34;&gt;民宿排序&lt;/td&gt;&lt;td&gt;推荐排序&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;欢迎度排序&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;好评排序&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;点评数排序&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;价格排序&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;距离排序&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;预订最多&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;新上房源&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;16&#34;&gt;民宿筛选&lt;/td&gt;&lt;td&gt;价格范围&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;位置区域&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;房屋类型&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;房源户型&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;入住人数&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;入住时间段&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;床铺数量&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;服务设施&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;特色功能&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;入住要求&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;推荐筛选&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;点评分&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;点评数&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;住客印象&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;房屋周边&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;优惠&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;11&#34;&gt;民宿详情展示&lt;/td&gt;&lt;td&gt;房客点评&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;达人推荐&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;房源特色&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;房东介绍&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;预订/入住须知&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;房东其他房源&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;周边相似房源&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;咨询&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;收藏&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;预订&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;分享&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;5&#34;&gt;民宿预定&lt;/td&gt;&lt;td&gt;入住信息&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;房费&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;优惠活动&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;支付方式&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;发票开具&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;地图&lt;/td&gt;&lt;td&gt;当前位置定位&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;任意位置选点&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;边看地图边查看房源信息&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;选择位置并显示该位置附近房源&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;特色功能&lt;/td&gt;&lt;td&gt;房屋PK&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;种草笔记点赞/评论&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;td&gt;√&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;在民宿搜索关键词方面，&lt;strong&gt;木鸟民宿app的特色是可以通过输入房源编号来搜索对应房源&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;在民宿排序方面，&lt;strong&gt;途家民宿app有特色的“欢迎度排序”、“点评数排序”，但是没有“距离排序”，木鸟民宿app有特色的“预订最多排序”和“新上房源排序”&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;在民宿筛选方面，小猪民宿app的筛选条件较少，&lt;strong&gt;途家民宿app的筛选类别非常丰富&lt;/strong&gt;，比另外两款app增加了点评分、点评数、住客印象、房屋周边、优惠的筛选条件，更能够让房客用户精准地定位到目标房源。&lt;/li&gt;
+&lt;li&gt;在民宿详情页展示上，三款产品包含的功能相似，但是&lt;strong&gt;木鸟民宿app和小猪民宿app都没有在详情页上设置“达人推荐”入口&lt;/strong&gt;，小猪民宿app没有“周边相似好房”入口。&lt;/li&gt;
+&lt;li&gt;在特色功能方面，&lt;strong&gt;木鸟民宿app和途家民宿app开发了特色的“房屋PK”功能&lt;/strong&gt;，让用户能够在同类房源中进行精准比选。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;43-结构层&#34;&gt;4.3 结构层&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/yzE7iWFakQML84g.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/lxc1a5NY3iHomdI.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/afQKpt2wl1DUCNA.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;木鸟民宿app的信息架构很全，分为推荐、收藏、发现、消息、我的共5个tab页，功能较完善，推荐页提供的房源分类很多，有专门的发现页作为房源种草功能。&lt;/li&gt;
+&lt;li&gt;小猪民宿app分为首页、收藏、消息、我共4个tab页，相比木鸟民宿app来说首页的房源分类较少，没有专设的发现页，种草笔记直接置于首页“搜索民宿”功能下方。&lt;/li&gt;
+&lt;li&gt;途家民宿app的信息架构比较完善，分为首页、收藏、发现、消息、我的共5个tab页，和木鸟民宿app的信息架构相似。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;44-框架层&#34;&gt;4.4 框架层&lt;/h3&gt;
+&lt;h4 id=&#34;房源搜索&#34;&gt;房源搜索&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/rhQMTGsanLpzFu8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/W6G1Zoz5UmkL9TN.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/ITXZalgHcPxW7yS.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;1房源搜索方式&#34;&gt;（1）房源搜索方式&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;对于目的性强，需求明确的用户可以在首页输入位置、入离时间、人数等指定信息进行搜索。&lt;/li&gt;
+&lt;li&gt;对于有特殊功能要求的用户可以点击分类标签进行针对性搜索。&lt;/li&gt;
+&lt;li&gt;对于没有目标房源的用可以户查看种草笔记、排行榜单等进行搜索。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;2房源搜索功能设计&#34;&gt;（2）房源搜索功能设计&lt;/h5&gt;
+&lt;p&gt;途家民宿的房源搜索功能更加注重商务人群的使用习惯，搜索关键词层次感鲜明。木鸟民宿的房源搜索迎合年轻人的喜好采用大胆活泼的色调，突出热门地点，提供个性化推荐。小猪民宿更加注重搜索功能本身，提供最多的筛选字段，和其他用户的搜索数据参考。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在搜索关键词方面，木鸟民宿比小猪民宿和途家民宿增加了“房源编号”关键词。&lt;/li&gt;
+&lt;li&gt;在搜索筛选方式方面，小猪民宿提供的筛选字段更多，除了基本的景点、商圈、行政区域、车站机场、热门推荐以外，还包含了地铁和高校筛选。&lt;/li&gt;
+&lt;li&gt;在个性化推荐方面，木鸟民宿不仅提供了关键词筛选，还增加了今日热搜、最佳入住地推荐、猜你喜欢等个性化推荐方式，给用户提供了更加多元的选择，并且配上房源图片，加强用户的转化。&lt;/li&gt;
+&lt;li&gt;在界面设计方面，途家民宿在每个筛选字段前都加入了不同图标，关键词统一由灰底色块组成，整体界面层次感鲜明，简洁明了，符合30岁以上中高端人群的使用习惯。木鸟民宿在字段后标注“热”、“火”、“TOP”等更加突出主次关系。小猪民宿在热门推荐中标注了选择不同关键词的百分比，为用户提供其他用户的搜索行为参考。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;房源浏览&#34;&gt;房源浏览&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/q4AQL3dJ6Pl79kg.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;1信息流展示逻辑&#34;&gt;（1）信息流展示逻辑&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;在整体展示方式上，三款产品都是&lt;strong&gt;搜索栏+导航栏+单列流房源信息展示&lt;/strong&gt;。图中该房源在三款产品上的价格有明显差异，木鸟民宿&amp;gt;小猪民宿&amp;gt;途家民宿，木鸟民宿app的价格甚至是途家民宿的双倍。&lt;/li&gt;
+&lt;li&gt;在房源信息卡上，三款产品都包含了房源大图、房源名称、房源信息、房源标签、房源价格，但是途家民宿和小猪民宿&lt;strong&gt;将价格用亮色进行凸显，并且标示优惠标签刺激用户的消费欲望&lt;/strong&gt;，小猪民宿还特别标注了房源收藏人数，向用户展示房源的受欢迎程度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/FscdntgiJ348eYv.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;2详情页内容展示逻辑&#34;&gt;（2）详情页内容展示逻辑&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;木鸟民宿app：周边信息（概览、交通、景点、餐饮、购物）——房东介绍及房源信息——房客评价——配套设施——预订须知——入住须知——房东其他房源——周边相似房源。&lt;/li&gt;
+&lt;li&gt;小猪民宿app：配套设施服务——房客评价——房东介绍及房源特点——预订须知——同类好房。&lt;/li&gt;
+&lt;li&gt;途家民宿app：配套设施服务——房客评价——周边信息（概览、交通、景点、餐饮）——房屋特点——预订须知——费用须知——房东介绍——房东其他房源——周边相似房源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;木鸟民宿更关注民宿本身带来的生活体验&lt;/strong&gt;，将位置周边的概览、交通、景点、餐饮、购物信息前置。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;途家民宿选择了类酒店的展示逻辑&lt;/strong&gt;，特别显示了低价日历，为用户提供更加实惠的订房选择，设计更有人性化。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;小猪民宿详情页展示信息相对另外两款产品来说较精简&lt;/strong&gt;，位置周边的信息只展示了具体地点、距离地铁站和景点的距离，也未展示房东其他房源。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/w4u8ylcb5pn79kL.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;3详情页图片展示逻辑&#34;&gt;（3）详情页图片展示逻辑&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;木鸟民宿app相册界面美观效果最佳&lt;/strong&gt;，采用细边框，单列头图结合双列图片的方式展示房源照片，上方没有导航栏，下方也没有预定信息栏，界面观感较好，但是图片没有添加房间类型标签，且相册中只有房东上传的图片。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;小猪民宿app的相册区分了房间类型&lt;/strong&gt;，但相册中也只有房东上传的图片。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;途家民宿app的相册包含信息最全&lt;/strong&gt;，涵盖房东相册和房客晒图，包含图片和视频，还标注了对应的房间，更加全面完整地展示房屋真实的现状。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;房源咨询&#34;&gt;房源咨询&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/3SutUlc6TVBYGfi.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/DG3drgk9sm2PNuM.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/py8CQhMdD5WZ3zS.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;房源咨询的用户路径：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;小猪民宿、途家民宿：点击详情页的咨询按键——跳转到聊天页面——了解房东介绍&lt;/li&gt;
+&lt;li&gt;木鸟民宿：点击详情页的咨询按键——确定入住时间和人数——跳转到聊天页面——了解房东介绍&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;木鸟民宿app相比另外两款产品在房源咨询过程中增加了确定入住信息的步骤&lt;/strong&gt;，更加注重咨询时传递信息的准确性，而另外两款产品更注重房源咨询用户路径的顺畅性。三款产品在咨询过程中都可以通过点击房主头像或右上角图标进入房东主页查看房东其他房源。&lt;/p&gt;
+&lt;h4 id=&#34;房源预定&#34;&gt;房源预定&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;三款产品的房源预订流程类似，用户路径直接顺畅，通过首页搜索或者浏览推荐民宿，在房源详情页下方点击预订，在预订界面填写入住人信息，确定入住房源信息和费用无误即可提交订单。&lt;/li&gt;
+&lt;li&gt;三款产品的房源退改政策不同，途家民宿仅限订单30分钟内免费取消，超过30分钟取消将扣除全部房费。小猪民宿允许入住前1-7天前免费取消，否则扣除全部房费。木鸟民宿实行阶梯制退款规则，分免费取消、扣除50%房费和扣除全部房费。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;房源种草&#34;&gt;房源种草&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/oRylxrdFCzSKiLO.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://s2.loli.net/2023/01/30/674cwspjdzCXEQe.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mry-1257430317.cos.ap-shanghai.myqcloud.com/%E5%B9%BB%E7%81%AF%E7%89%8718.jpg&#34; alt=&#34;幻灯片18.JPG&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在用户路径上，&lt;strong&gt;三款产品都可以通过发现页或者推荐内容跳转到种草笔记再跳转到房源详情页界面&lt;/strong&gt;。但是&lt;strong&gt;只有途家民宿app的房源详情页界面上显示了达人推荐的内容，构成了达人推荐——房源详情的双向闭环&lt;/strong&gt;，其他两款产品在正常浏览房源详情页时无法查看kol达人的种草文章，对转化率有所损失。&lt;/li&gt;
+&lt;li&gt;在种草笔记显示逻辑上，木鸟民宿app将跳转房源的链接顶置，加强了种草笔记跳转到房源详情页的转化，小猪民宿app保证阅读种草阅读笔记过程不被干扰，需浏览到最底部才能看到跳转链接。途家民宿app将笔记节选和链接并置，需点击“展开全部”才能浏览笔记全部内容。&lt;/li&gt;
+&lt;li&gt;在种草笔记互动上，&lt;strong&gt;小猪民宿app不具备笔记评论点赞功能，只能收藏或者分享，互动性较低&lt;/strong&gt;。木鸟民宿app可以点赞评论分享，不可以收藏，&lt;strong&gt;途家民宿app种草笔记互动功能最全面，可以评论、点赞、收藏、分享&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;房源评价&#34;&gt;房源评价&lt;/h4&gt;
+&lt;h5 id=&#34;1评价展示入口&#34;&gt;（1）评价展示入口&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;在房源搜索页上，三款产品的评价展示入口均在房源主图的左下角。&lt;strong&gt;木鸟民宿的评价显示逻辑是”评分+评级（超赞、赞）+评价数量“，小猪民宿和途家民宿的评价显示逻辑都是”评分+评价数量+评价摘录”&lt;/strong&gt;，将评价摘录显示在房源信息卡上有助于帮助用户快速建立对房源的初步印象，更好地找到目标房源。&lt;/li&gt;
+&lt;li&gt;在房源详情页上，&lt;strong&gt;木鸟民宿将评分条突出显示，并且整合“推荐”或者“分享”操作&lt;/strong&gt;，但是不能直接跳转到评价页。小猪民宿和途家民宿将评分条呈矩形窗口显示，可以直接跳转到评价页。&lt;strong&gt;途家民宿以banner的形式呈现其他用户的评价摘录&lt;/strong&gt;，便于用户快速地建立对房源的初步印象。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://mry-1257430317.cos.ap-shanghai.myqcloud.com/%E5%B9%BB%E7%81%AF%E7%89%871.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mry-1257430317.cos.ap-shanghai.myqcloud.com/%E5%B9%BB%E7%81%AF%E7%89%872.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mry-1257430317.cos.ap-shanghai.myqcloud.com/%E5%B9%BB%E7%81%AF%E7%89%873.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;2评价逻辑&#34;&gt;（2）评价逻辑&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;在评价类型上，&lt;strong&gt;途家民宿可以同时查看本房源和同房东其他房源的评价&lt;/strong&gt;，木鸟民宿和小猪民宿只能查看本房源评价。&lt;/li&gt;
+&lt;li&gt;在评价筛选上，&lt;strong&gt;途家民宿用户评价的筛选类型更加全面&lt;/strong&gt;，可以查看有图、最新、好评、差评，木鸟民宿只能查看全部点评和有图点评，小猪民宿不具备评价筛选功能。&lt;/li&gt;
+&lt;li&gt;在评分体系上，木鸟民宿的评分由装潢设施、服务态度、环境卫生、图片真实构成，小猪民宿由整洁卫生、描述相符、交通位置、安全程度、性价比构成，途家民宿由描述、位置、性价比、服务、卫生、便捷构成，&lt;strong&gt;三款产品共同关注的评价要素是环境卫生&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;45-表现层&#34;&gt;4.5 表现层&lt;/h3&gt;
+&lt;h4 id=&#34;开屏页&#34;&gt;开屏页&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://mry-1257430317.cos.ap-shanghai.myqcloud.com/%E5%B9%BB%E7%81%AF%E7%89%874.jpg&#34; alt=&#34;幻灯片4.JPG&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;页面布局&lt;/strong&gt;。木鸟民宿和途家民宿开屏页的表现方式都是上方大图加下方产品logo，而小猪民宿开屏页无大图，logo和slogan置于中间，更加简洁明了。木鸟民宿和小猪民宿开屏页展示了产品slogan，向用户清晰地展示了产品定位，途家民宿未展示slogan。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;广告投放&lt;/strong&gt;。木鸟民宿和小猪民宿开屏页无广告投放，途家民宿开屏页有活动广告，点击广告可以跳转至详情或第三方应用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;首页&#34;&gt;首页&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://mry-1257430317.cos.ap-shanghai.myqcloud.com/%E5%B9%BB%E7%81%AF%E7%89%875.jpg&#34; alt=&#34;幻灯片5.JPG&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;整体设计风格&lt;/strong&gt;。途家民宿的页面设计追求类酒店展示风格，色彩使用偏向于基础色。小猪民宿app主打单一粉色，风格清新，页面简约，符合年轻用户的审美习惯。木鸟民宿的色彩种类丰富，明亮活泼，页面层级丰富。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;功能模块布局&lt;/strong&gt;。三款产品的首页功能模块都包含搜索区、活动区、推荐区，将搜索民宿的主要功能放在首页显要位置，将平台活动以banner形式展现。小猪民宿的banner区图幅较小，在页面上单独设置，木鸟民宿和途家民宿的banner活动区与搜索区加以整合，起到了较好的填充空白作用。木鸟民宿的页面重心在banner活动区，更偏重于优惠引流，途家民宿和小猪民宿的页面重心在搜索区，更偏重于功能性。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;分类标签引流&lt;/strong&gt;。木鸟民宿app分类标签引流入口较多，特别是针对喜欢颜值、注重性价比的年轻群体推出了“网红推荐”、“学生特价”等特色标签，推荐元素比较全面。小猪民宿的分类标签更注重房源特点和住宿优惠，包括“一居”、“两居”和“连住特惠”、“学生专区”。途家民宿首页未设置分类标签，直接以信息流模式展示房源图片。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;收藏页&#34;&gt;收藏页&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://mry-1257430317.cos.ap-shanghai.myqcloud.com/%E5%B9%BB%E7%81%AF%E7%89%876.jpg&#34; alt=&#34;幻灯片6.JPG&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;木鸟民宿以双列流的形式展示房源收藏信息，突出房源名称和价格，并且加入了特色的房源对比和查看他人收藏的功能，侧重于房源浏览和对比的功能性体验。&lt;/li&gt;
+&lt;li&gt;小猪民宿的收藏页分为收藏区和推荐区，在收藏区采用左侧房源图片+右侧房源信息的单列流呈现形式，并将优惠信息突出显示，侧重于房源优惠引流。下方“推荐美宿”采用上方房源图片+下方房源信息的双列流呈现形式，侧重于房源推荐引流。&lt;/li&gt;
+&lt;li&gt;途家民宿以大篇幅、单列流展示房源图片，吸引用户注意力，侧重于房源浏览的沉浸式体验，并且将收藏分为房屋、房东、榜单、内容四个类别，浏览体验最佳。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;发现页&#34;&gt;发现页&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://mry-1257430317.cos.ap-shanghai.myqcloud.com/%E5%B9%BB%E7%81%AF%E7%89%8721.jpg&#34; alt=&#34;幻灯片21.JPG&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;木鸟民宿app的发现页包含导航区和笔记区，“热门”和“体验分享”栏目下的内容都是双列流显示，强调“网红房源”或“城市”标签，突出显示评论和点赞数，利用网红属性和房源热度值吸引用户。“网红民宿”栏目下的内容是单列流显示，展示了房源的多张图片，侧重于多角度的房源展示吸引用户。&lt;/li&gt;
+&lt;li&gt;小猪民宿app无专门的发现页，而是将种草笔记直接置于首页搜索区下方，直接通过双列流形式展示笔记图片和笔记标题，可以收藏或者查看笔记详情，没有设置导航区，因此无法快速查询某一类型的笔记或查看笔记对应的城市，适合无目的或目的性弱的用户。&lt;/li&gt;
+&lt;li&gt;途家民宿app的发现页包括banner区、导航区、笔记区、发布区。banner区占据页面的视觉重心，展示每个城市的精选榜单，笔记区显示了笔记图片和部分内容，具备收藏和点赞功能，笔记浏览体验最佳。发布区突出显示“发文最高送400积分”，用积分福利作为利益钩子激励用户创作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;五总结与建议&#34;&gt;五、总结与建议&lt;/h2&gt;
+&lt;h3 id=&#34;51-swot总结&#34;&gt;5.1 SWOT总结&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;木鸟民宿&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;小猪民宿&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;途家民宿&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;优势&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;· 优质服务、高性价比 &lt;br&gt; · 主打网红民宿，快速抢占年轻用户群体&lt;br&gt; · C to C 轻运营模式节省人力成本，抗风险能力更强&lt;br&gt; · 房源种类丰富，涵盖特色房源&lt;/td&gt;
+&lt;td&gt;· 主打有人情味的社交住宿社区，人性化服务贴近消费者&lt;br&gt; · 价格优势，吸引学生群体&lt;br&gt; · C to C 轻运营模式节省人力成本，抗风险能力更强&lt;br&gt; · 房源种类丰富，涵盖特色房源&lt;/td&gt;
+&lt;td&gt;· 背靠携程平台，具有明现流量优势&lt;br&gt; · 房源量大，房源优质，管理更加规范&lt;br&gt; · 产品功能齐全，业务广泛，用户体验感好&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;劣势&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;· 房源量有待增加，不具备足够竞争力&lt;br&gt; · 社交功能不够完善，用户之间的交流互动不足&lt;/td&gt;
+&lt;td&gt;· 社交功能不够完善，用户之间的交流互动不足&lt;br&gt; · 产品体验欠佳，部分功能有待完善&lt;/td&gt;
+&lt;td&gt;· 针对差旅用户的定位与喜爱网红民宿的年轻群体之间存在割裂&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;机遇&lt;/strong&gt;&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;· 国家政策支持鼓励发展租赁式公寓、民宿客栈等旅游短租服务&lt;br&gt; · 疫情缓解后，周边游、本地游兴起，带动民宿需求上升&lt;br&gt; · 网络化营销手段、新型技术给在线民宿预订市场赋能，增加了流量和转化率&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;挑战&lt;/strong&gt;&lt;/td&gt;
+&lt;td colspan=&#34;3&#34;&gt;· 小猪民宿、途家民宿、美团民宿、木鸟民宿等多个产品竞争，抢占市场份额&lt;br&gt; · 民宿市场出现“冰火两重天”，蛋壳公寓、蘑菇公寓、青客公寓等纷纷暴雷&lt;br&gt; · 政策对民宿标准要求逐渐严格，需要在民宿标准上下功夫&lt;br&gt; · 一二线城市预订需求最大，但是三四线下沉市场的需求量不可忽视&lt;br&gt; · 行业将迈向洗牌期，未来精细化运营、满足用户个性化需求是制胜关键&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;52-用户体验总结&#34;&gt;5.2 用户体验总结&lt;/h3&gt;
+&lt;h4 id=&#34;小猪民宿app&#34;&gt;小猪民宿app&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;亮点&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;房源搜索：房源搜索的筛选字段较多，并且显示不同字段搜索的百分比。&lt;/li&gt;
+&lt;li&gt;房源浏览：房源信息卡上用亮色凸显价格信息，并且标示优惠标签和收藏人数刺激用户的消费欲望。&lt;/li&gt;
+&lt;li&gt;私域运营：私域流量承接完善，服务效率高，具备朋友圈内容和视频号运营。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;不足&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用户运营：没有搭建会员体系，无法激励用户成长。&lt;/li&gt;
+&lt;li&gt;用户互动：种草笔记详情页不具备笔记评论点赞功能，只能收藏或者分享，互动性较低。&lt;/li&gt;
+&lt;li&gt;房源评价：评价页功能不完善，不具备分类导航和分类标签。&lt;/li&gt;
+&lt;li&gt;房源种草：种草笔记未设置分类导航区，无法查询某一类型的笔记或查看笔记对应的城市。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;途家民宿app&#34;&gt;途家民宿app&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;亮点&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;房源浏览：房源详情页显示”低价日历“，房源相册包含信息最全，分为房东相册和房客晒图，有图片和视频形式，并标注了对应的房间，还可以查看当前房源和同房东其他房源评价。&lt;/li&gt;
+&lt;li&gt;房源筛选：民宿筛选方式达10余种，让房客用户精准地定位到目标房源。&lt;/li&gt;
+&lt;li&gt;房源推荐：完善的推荐榜单，不同城市的不同区域都有相应的服务榜、性价比榜、人气榜。&lt;/li&gt;
+&lt;li&gt;房源种草：利用kol产出UGC，从种草笔记到房源详情页可以双向跳转，种草笔记互动功能最全面。&lt;/li&gt;
+&lt;li&gt;用户运营：具备完善的会员体系和积分体系，积分可以直接抵扣房费。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;不足&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;分类标签：首页未设置分类标签引流入口，不利于有针对性地进行用户分层导流。&lt;/li&gt;
+&lt;li&gt;房源搜索：房源搜索页的关键词搜索联想和个性化推荐不足。&lt;/li&gt;
+&lt;li&gt;私域运营：私域运营不够完善，“选房小助手”类似客服，服务效率低，提供的功能体验有限。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;木鸟民宿app&#34;&gt;木鸟民宿app&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;亮点&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;房源排序：房源排序方式丰富，有特色的“预订最多排序”和“新上房源排序”，满足个性化需求。&lt;/li&gt;
+&lt;li&gt;房源对比：具有“房源对比”的特色功能，可以任意选择指定收藏房源进行对比。&lt;/li&gt;
+&lt;li&gt;房源搜索：房源搜索页增加了今日热搜、最佳入住地推荐、猜你喜欢等个性化推荐方式，标注“热”、“火”、“TOP”等突出重点。&lt;/li&gt;
+&lt;li&gt;分类标签：首页房源分类标签达十余种，引流入口很多，匹配不同用户需求。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;优化建议&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;（1）房源预订&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;增加积分抵扣房费功能，在下单时直接进行抵扣，不需要提前兑换，优化产品使用流程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（2）房源浏览&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;提供多样化的房源展示方式，鼓励房东上传视频或户型图等。&lt;/li&gt;
+&lt;li&gt;房源详情页图片在保证原有UI效果基础上，增加房东相册和房客相册分类，并且标注对应的房间名称。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（3）房源种草&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在房源详情页上增加“达人推荐”板块，实现种草笔记到房源详情页的双向跳转。&lt;/li&gt;
+&lt;li&gt;种草笔记详情页上增加收藏功能，并且在“收藏”页上可以分类查看。&lt;/li&gt;
+&lt;li&gt;发现页上增加“写笔记”入口，并凸显“写笔记返积分”标语，在用户浏览种草笔记同时刺激用户创作欲望。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（4）房源评价&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;评价激励机制：通过写评价返现、优质评价得好礼等方式促进用户发表评价，在评价区开通评论功能，方便用户间讨论交流，激发用户创作欲望。&lt;/li&gt;
+&lt;li&gt;房源评价页增加显示“同房东其他房源评价”，并且增加可以选择查看有图、最新、好评、差评的功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本文引用数据来源：
+易观分析、七麦数据、艾瑞咨询、mob研究院、TalkingData、旅智科技、Trustdata&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://overwhite216.github.io/categories/%E4%BA%A7%E5%93%81/">产品</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://overwhite216.github.io/tags/%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90/">竞品分析</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
